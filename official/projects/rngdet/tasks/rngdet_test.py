@@ -28,7 +28,7 @@ import sys
 import pdb;
 _NUM_EXAMPLES = 10
 
-CITYSCALE_INPUT_PATH_BASE = 'FIX_ME'
+CITYSCALE_INPUT_PATH_BASE = 'TF_RECORD_PATH'
 
 def _gen_fn():
   h = 128
